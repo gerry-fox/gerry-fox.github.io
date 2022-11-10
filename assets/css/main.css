@@ -3935,31 +3935,32 @@ input, select, textarea {
 
  .skill-percent {
 	font-size: 30px;
+	 color: #ffffff;
  }
 
  .html {
 	animation: html 2s;
-	width: 80%;
+	width: 70%;
  }
 
  .css {
 	animation: css 2s;
-	width: 80%;
+	width: 70%;
  }
 
  .uiux {
 	animation: uiux 2s;
-	width: 70%;
+	width: 50%;
  }
 
  .js {
 	animation: js 2s;
-	width: 50%;
+	width: 40%;
  }
 
  .php {
 	animation: php 2s;
-	width: 50%;
+	width: 40%;
  }
 
  .wordpress {
@@ -3972,7 +3973,7 @@ input, select, textarea {
 		width: 0;
 	}
 	to {
-		width: 80%;
+		width: 70%;
 	}
  }
 
@@ -3981,7 +3982,7 @@ input, select, textarea {
 		width: 0;
 	}
 	to {
-		width: 80%;
+		width: 70%;
 	}
  }
 
@@ -3990,7 +3991,7 @@ input, select, textarea {
 		width: 0;
 	}
 	to {
-		width: 70%;
+		width: 50%;
 	}
  }
 
@@ -3999,7 +4000,7 @@ input, select, textarea {
 		width: 0;
 	}
 	to {
-		width: 50%;
+		width: 40%;
 	}
  }
 
@@ -4008,7 +4009,7 @@ input, select, textarea {
 		width: 0;
 	}
 	to {
-		width: 50%;
+		width: 40%;
 	}
  }
 
